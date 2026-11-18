@@ -1,0 +1,18 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ExpenseNote45" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Color Palette (Night) -->
+        <item name="colorPrimary">@color/cyan_200</item>
+        <item name="colorOnPrimary">@color/cyan_900</item>
+        <item name="colorPrimaryContainer">@color/cyan_800</item>
+        <item name="colorOnPrimaryContainer">@color/cyan_100</item>
+        <item name="colorSecondary">@color/cyan_500</item>
+        <item name="colorOnSecondary">@color/cyan_900</item>
+        <item name="colorSecondaryContainer">@color/cyan_800</item>
+        <item name="colorOnSecondaryContainer">@color/cyan_100</item>
+        <item name="colorSurfaceVariant">@color/cyan_800</item>
+        <item name="colorOutline">@color/cyan_500</item>
+    </style>
+
+    <style name="Theme.ExpenseNote45" parent="Base.Theme.ExpenseNote45" />
+</resources>

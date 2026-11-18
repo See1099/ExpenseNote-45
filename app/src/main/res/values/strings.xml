@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ExpenseNote-45</string>
+    <string name="expense_note_title">บันทึกค่าใช้จ่าย</string>
+    <string name="title_main">บันทึกค่าใช้จ่ายประจำวัน</string>
+    <string name="subtitle_main">จดทุกวันบันทึกค่าใช้วันนี้ให้ครบเลยนะ</string>
+    <string name="label_amount">โปรดใส่จำนวนเงิน (เป็นบาท)</string>
+    <string name="hint_amount">เช่น 100 หรือ 10.25</string>
+    <string name="label_note">คำอธิบาย</string>
+    <string name="hint_note">เช่น ข้าวกลางวัน, ค่าเดินทาง</string>
+    <string name="btn_clear">เคลียร์</string>
+    <string name="btn_add">เพิ่มรายการ</string>
+    <string name="label_last_item">รายการล่าสุด : -</string>
+</resources>

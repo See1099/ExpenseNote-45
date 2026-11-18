@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Cyan Theme Palette -->
+    <color name="cyan_50">#E0F7FA</color>       <!-- Light background -->
+    <color name="cyan_100">#B2EBF2</color>      <!-- Input background tint / soft container -->
+    <color name="cyan_200">#80DEEA</color>      <!-- Clear button background / border accent -->
+    <color name="cyan_500">#00BCD4</color>      <!-- Vibrant Primary Cyan -->
+    <color name="cyan_600">#00ACC1</color>      <!-- Clear button border / Secondary accent -->
+    <color name="cyan_700">#00838F</color>      <!-- Primary Cyan / Add Button background -->
+    <color name="cyan_800">#006064</color>      <!-- Header text / Clear button text -->
+    <color name="cyan_900">#004D40</color>      <!-- Darkest Cyan Text -->
+
+    <!-- Theme Neutral Colors -->
+    <color name="text_primary">#102A30</color>  <!-- High contrast dark cyan text -->
+    <color name="text_secondary">#4A6B74</color><!-- Subtitle text -->
+    <color name="text_hint">#80A8B2</color>     <!-- Hint text color -->
+    <color name="divider_cyan">#B2EBF2</color>   <!-- Divider cyan color -->
+</resources>
